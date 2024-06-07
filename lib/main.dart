@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:my_test/car_database/car_screen.dart';
 import 'package:my_test/employee_Database/emp_screen.dart';
 import 'package:my_test/fruit_database/fruit_screen.dart';
+import 'package:my_test/main_screen.dart';
 import 'package:my_test/music_database/song_screen.dart';
 import 'package:my_test/practice/bim.dart';
 import 'package:my_test/practice/bottom.dart';
@@ -45,12 +46,9 @@ class MyLearning extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-    initialRoute: 'yourBMI',
+    initialRoute: 'mainScreen',
     routes: {
-        'firstScreen':(context)=> FirstScreen(),
-      'secondScreen':(context)=> SecondScreen(),
       'yourBMI':(context)=>YourBMI(),
-      'thirdScreen': (context) => ThirdScreen(),
       'fooAnimation' :(context)=> ContainerAnimation(),
       'opaque':(context)=> AnimateOpacity(),
       'hero':(context)=> FirstHero(),
@@ -68,7 +66,7 @@ class MyLearning extends StatelessWidget {
       'bottom':(context)=>BottomState(),
       'drawer':(context)=>KingFisher(),
       'table':(context)=>Tabling(),
-      'bottom':(context)=>BottomMenu(),
+      'bottomMenu':(context)=>BottomMenu(),
       'learn' :(context)=>Learn(),
       'showUserScreen' :(context)=>ShowUserScreen(),
       'preference':(context)=>StoringData(),
@@ -78,7 +76,8 @@ class MyLearning extends StatelessWidget {
       'vegScreen':(context)=>VegetableScreen(),
       'songScreen':(context)=>SongScreen(),
       'scrollWidget':(context)=>ScrollWidget(),
-      'drag':(context)=>DragSheet()
+      'drag':(context)=>DragSheet(),
+      'mainScreen':(context)=>MainScreen()
 
     },
       theme: ThemeData(

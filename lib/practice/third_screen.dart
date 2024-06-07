@@ -17,6 +17,6 @@ class ThirdScreen extends StatelessWidget {
     var arg = ModalRoute.of(context)!.settings.arguments as ThirdScreenArg;
 
 
-    return Text(arg.data!);
+    return Scaffold(body: Text(arg.data!));
   }
 }
