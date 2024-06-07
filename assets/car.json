@@ -1,0 +1,74 @@
+[
+  {
+    "car_name": "Innova",
+    "car_color": "white",
+    "car_model": "ZX 2.4 7STR",
+    "car_price": "26.30Lac"
+  },
+  {
+    "car_name": "Swift",
+    "car_color": "Black",
+    "car_model": "Swift ZXI",
+    "car_price": "7.68Lac"
+  },
+  {
+    "car_name": "MG",
+    "car_color": "White",
+    "car_model": "MG Comet EV",
+    "car_price": "7.52Lac"
+  },
+  {
+    "car_name": "Thar",
+    "car_color": "Red",
+    "car_model": "Thar AX(O)",
+    "car_price": "18.10Lac"
+  },
+  {
+    "car_name": "Kia",
+    "car_color": "Silver",
+    "car_model": "Kia EV6",
+    "car_price": "60.95Lac"
+  },
+  {
+    "car_name": "Jeep",
+    "car_color": "Black",
+    "car_model": "Jeep Grand Cherokee",
+    "car_price": "80.49Lac"
+  },
+  {
+    "car_name": "BMW",
+    "car_color": "Green",
+    "car_model": "BMW M4 Competition",
+    "car_price": "1.48Crore"
+  },
+  {
+    "car_name": "Audi",
+    "car_color": "Brown",
+    "car_model": "AUDI Q3",
+    "car_price": "43.81Lac"
+  },
+  {
+    "car_name": "Hyundai",
+    "car_color": "Blue",
+    "car_model": "Hyundai Creta N Line",
+    "car_price": "16.82Lac"
+  },
+  {
+    "car_name": "Honda ",
+    "car_color": "Red",
+    "car_model": "Honda Elevate",
+    "car_price": "16.19Lac"
+  },
+  {
+    "car_name": "Scorpio",
+    "car_color": "Black",
+    "car_model": "Scorpio N Z2",
+    "car_price": "14.10Lac"
+  },
+  {
+    "car_name": "Tata Nexon",
+    "car_color": "Purple",
+    "car_model": "Nexon Pure",
+    "car_price": "9.90Lac"
+  }
+]

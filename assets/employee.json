@@ -1,0 +1,72 @@
+[
+  {
+    "emp_name": "Shivam Sharma",
+    "emp_id": "01",
+    "emp_joining_date": "10.01.2019",
+    "employee_designation": "Doctor",
+    "emp_age": "27"
+  },
+  {
+    "emp_name": "Princy Sharma",
+    "emp_id": "02",
+    "emp_joining_date": "11.01.2022",
+    "employee_designation": "Lab Technician",
+    "emp_age": "23"
+  },
+  {
+    "emp_name": "Vikram Singh",
+    "emp_id": "03",
+    "emp_joining_date": "10.01.2005",
+    "employee_designation": "MD.Pathologist",
+    "emp_age": "55"
+  },
+  {
+    "emp_name": "Rekha",
+    "emp_id": "04",
+    "emp_joining_date": "12.06.2019",
+    "employee_designation": "Lab Technician",
+    "emp_age": "33"
+  },
+  {
+    "emp_name": "Ramanand Yadav",
+    "emp_id": "05",
+    "emp_joining_date": "02.08.2016",
+    "employee_designation": "Lab Assistant",
+    "emp_age": "28"
+  },
+  {
+    "emp_name": "Devender Bhamani",
+    "emp_id": "06",
+    "emp_joining_date": "05.06.2015",
+    "employee_designation": "Lab Assistant",
+    "emp_age": "27"
+  },
+  {
+    "emp_name": "RP Singh",
+    "emp_id": "07",
+    "emp_joining_date": "10.01.2012",
+    "employee_designation": "Senior Lab Technician",
+    "emp_age": "45"
+  },
+  {
+    "emp_name": "RK Mittal",
+    "emp_id": "08",
+    "emp_joining_date": "10.01.2022",
+    "employee_designation": "Senior Lab Technician",
+    "emp_age": "44"
+  },
+  {
+    "emp_name": "Ritesh Yadav",
+    "emp_id": "09",
+    "emp_joining_date": "06.04.2018",
+    "employee_designation": "Data Entry Operator",
+    "emp_age": "21"
+  },
+  {
+    "emp_name": "Gaurav Singh",
+    "emp_id": "10",
+    "emp_joining_date": "11.03.2017",
+    "employee_designation": "Lab Technician",
+    "emp_age": "22"
+  }
+]

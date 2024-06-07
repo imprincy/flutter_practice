@@ -1,0 +1,86 @@
+[
+  {
+    "veg_name": "potato",
+    "veg_color": "rough brown",
+    "veg_shape": "elliptical",
+    "veg_national_month": "september"
+  },
+  {
+    "veg_name": "cabbage",
+    "veg_color": "green",
+    "veg_shape": "oblate,round",
+    "veg_national_month": "february"
+  },
+  {
+    "veg_name": "couliflower",
+    "veg_color": "white",
+    "veg_shape": "pyrimidal appearance",
+    "veg_national_month": "october/november"
+  },
+  {
+    "veg_name": "bottle gourd",
+    "veg_color": "light greenn",
+    "veg_shape": "bulbons",
+    "veg_national_month": "october"
+  },
+  {
+    "veg_name": "peas",
+    "veg_color": "light green",
+    "veg_shape": "pod-shaped",
+    "veg_national_month": "december"
+  },
+  {
+    "veg_name": "cucumber",
+    "veg_color": "green",
+    "veg_shape": "rounded cylindrical",
+    "veg_national_month": "june"
+  },
+  {
+    "veg_name": "brinjal",
+    "veg_color": "purple",
+    "veg_shape": "club-shape",
+    "veg_national_month": "july"
+  },
+  {
+    "veg_name": "coriander leaves",
+    "veg_color": "green",
+    "veg_shape": "ovate globular",
+    "veg_national_month": "october"
+  },
+  {
+    "veg_name": "capsicum",
+    "veg_color": "green/red/yellow",
+    "veg_shape": "blocky",
+    "veg_national_month": "november"
+  },
+  {
+    "veg_name": "tomato",
+    "veg_color": "red",
+    "veg_shape": "spherical",
+    "veg_national_month": "october"
+  },
+  {
+    "veg_name": "pumpkin",
+    "veg_color": "deep yellow to orange",
+    "veg_shape": "oblate rounded",
+    "veg_national_month": "october"
+  },
+  {
+    "veg_name": "ladyFinger",
+    "veg_color": "green",
+    "veg_shape": "elongated",
+    "veg_national_month": "june"
+  },
+  {
+    "veg_name": "carrot",
+    "veg_color": "red/orange",
+    "veg_shape": "conical/cylindrical",
+    "veg_national_month": "january"
+  },
+  {
+    "veg_name": "radish",
+    "veg_color": "red/white",
+    "veg_shape": "conical/round",
+    "veg_national_month": "november"
+  }
+]

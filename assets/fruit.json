@@ -1,0 +1,74 @@
+[
+  {
+    "fruit_name": "apple",
+    "fruit_color": "red",
+    "fruit_season": "winter",
+    "fruit_shape": "roundish,oblate"
+  },
+  {
+    "fruit_name": "banana",
+    "fruit_color": "yellow",
+    "fruit_season": "all year round",
+    "fruit_shape": "elongated and curved"
+  },
+  {
+    "fruit_name": "chikoo",
+    "fruit_color": "brown",
+    "fruit_season": "winter",
+    "fruit_shape": "oval"
+  },
+  {
+    "fruit_name": "strawberry",
+    "fruit_color": "red",
+    "fruit_season": "summer",
+    "fruit_shape": "long conic"
+  },
+  {
+    "fruit_name": "mango",
+    "fruit_color": "yellow",
+    "fruit_season": "summer",
+    "fruit_shape":"oval,round,heart-shaped"
+  },
+  {
+    "fruit_name": "grapes",
+    "fruit_color": "green",
+    "fruit_season": "rainy",
+    "fruit_shape": "ellipsoid"
+  },
+  {
+    "fruit_name": "orange",
+    "fruit_color": "orange",
+    "fruit_season": "winter",
+    "fruit_shape": "round"
+  },
+  {
+    "fruit_name": "papaya",
+    "fruit_color": "orange flesh",
+    "fruit_season": "spring,autumn",
+    "fruit_shape": "pear-shaped"
+  },
+  {
+    "fruit_name": "watermelon",
+    "fruit_color": "striped dark and light green",
+    "fruit_season": "summer",
+    "fruit_shape": "oval or spherical"
+  },
+  {
+    "fruit_name": "kiwi",
+    "fruit_color": "green",
+    "fruit_season": "winter",
+    "fruit_shape": "oval"
+  },
+  {
+    "fruit_name": "pomegranate",
+    "fruit_color": "red-purple",
+    "fruit_season": "winter",
+    "fruit_shape": "rounded hexagonal"
+  },
+  {
+    "fruit_name": "date",
+    "fruit_color": "bright red",
+    "fruit_season": "summer",
+    "fruit_shape": "oval cylindrical"
+  }
+]
